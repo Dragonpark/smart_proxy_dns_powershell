@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.license     = 'GPL-3.0'
   s.authors     = ['Derek Doty']
   s.email       = ['dragonpark@gmail.com']
-  s.homepage    = 'https://github.com/theforeman/smart_proxy_dns_powershell'
+  s.homepage    = 'https://github.com/dragonpark/smart_proxy_dns_powershell'
 
   s.summary     = "TODO DNS provider plugin for Foreman's smart proxy"
   s.description = "TODO DNS provider plugin for Foreman's smart proxy"
